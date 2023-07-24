@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nicolás Vilela Pérez 👋</h1>
-<h3 align="center">A Computer Science student at University of Santiago de Compostela</h3>
+<h3 align="center">BSc in Computer Engeneering</h3>
 
 
 Among all of my interests, I highlight the development of new technologies, data analysis, cybersecurity, machine learning techniques and everything related to intelligent technologies.💻
